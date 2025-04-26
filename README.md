@@ -105,4 +105,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Authors
 
-- [Your Name or Team Name Here]
+- Sami Ul Haq, Sheila Castilho, Yvette Graham
