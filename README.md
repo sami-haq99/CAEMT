@@ -9,7 +9,7 @@ The goal is to create a system that:
 - Provides **visually-aware assessments** of MT quality
 - Enhances evaluation by capturing multimodal cues often missed in traditional text-only evaluations
 
-The following diagram illustrates the high-level workflow of CAEMT:
+CAEMT is part of my PhD resarch which resolves around 2 main Research Questions. The following diagram illustrates the high-level workflow of CAEMT:
 
 ![CAEMT Overview](Overview-CAEMT.png)
 ---
