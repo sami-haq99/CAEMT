@@ -9,6 +9,9 @@ The goal is to create a system that:
 - Provides **visually-aware assessments** of MT quality
 - Enhances evaluation by capturing multimodal cues often missed in traditional text-only evaluations
 
+The following diagram illustrates the high-level workflow of CAEMT:
+
+![CAEMT Overview](overview-CAEMT.png.png)
 ---
 
 ## Project Structure
