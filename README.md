@@ -11,7 +11,7 @@ The goal is to create a system that:
 
 The following diagram illustrates the high-level workflow of CAEMT:
 
-![CAEMT Overview](overview-CAEMT.png.png)
+![CAEMT Overview](overview-CAEMT.png)
 ---
 
 ## Project Structure
