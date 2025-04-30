@@ -25,8 +25,9 @@ This repository contains:
 ## Example of overestimation 
 
 The embedding based metrics could be at risk of overestimation of similarity between embedding tokens as shown in below example:
-- Text1: 
-- Text2: 
+- Text1: one the table are two apples.
+- Text2: There are two bananas on the table.
+- The similarity score below indicates higher similarity between apple and banana being the fruits. 
 -Similarity Matrix: 
 ![Similarity Matrix](./Images/example-overestimation.png)
 
