@@ -11,7 +11,7 @@ The goal is to create a system that:
 
 CAEMT is part of my PhD resarch which resolves around 2 main Research Questions. The following diagram illustrates the high-level workflow of CAEMT:
 
-![CAEMT Overview](Images\Overview-CAEMT.png)
+![CAEMT Overview](./Images/Overview-CAEMT.png)
 ---
 
 ## Project Structure
@@ -28,7 +28,7 @@ The embedding based metrics could be at risk of overestimation of similarity bet
 - Text1: 
 - Text2: 
 -Similarity Matrix: 
-![Similarity Matrix][Images\example-overestimation.png]
+![Similarity Matrix][./Images/example-overestimation.png]
 
 ## Getting Started
 To set up CAEMT locally:
