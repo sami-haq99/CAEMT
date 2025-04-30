@@ -28,7 +28,7 @@ The embedding based metrics could be at risk of overestimation of similarity bet
 - Text1: 
 - Text2: 
 -Similarity Matrix: 
-![Similarity Matrix][./Images/example-overestimation.png]
+![Similarity Matrix](./Images/example-overestimation.png)
 
 ## Getting Started
 To set up CAEMT locally:
