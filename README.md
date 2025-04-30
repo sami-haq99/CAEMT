@@ -11,7 +11,7 @@ The goal is to create a system that:
 
 CAEMT is part of my PhD resarch which resolves around 2 main Research Questions. The following diagram illustrates the high-level workflow of CAEMT:
 
-![CAEMT Overview](Overview-CAEMT.png)
+![CAEMT Overview](Images\Overview-CAEMT.png)
 ---
 
 ## Project Structure
@@ -22,8 +22,15 @@ This repository contains:
 - Evaluation pipelines
 - Configuration examples and sample data
 
-## Getting Started
+## Example of overestimation 
 
+The embedding based metrics could be at risk of overestimation of similarity between embedding tokens as shown in below example:
+- Text1: 
+- Text2: 
+-Similarity Matrix: 
+![Similarity Matrix][Images\example-overestimation.png]
+
+## Getting Started
 To set up CAEMT locally:
 
 1. **Clone the repository**
