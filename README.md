@@ -29,7 +29,7 @@ The embedding based metrics could be at risk of overestimation of similarity bet
 - Text2: There are two bananas on the table.
 - The similarity score below indicates higher similarity between apple and banana being the fruits. 
 -Similarity Matrix: 
-![Similarity Matrix](./Images/example-overestimation.png)
+![Similarity Matrix](./Images/visual.png)
 
 ## Getting Started
 To set up CAEMT locally:
