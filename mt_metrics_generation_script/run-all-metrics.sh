@@ -12,16 +12,16 @@
 
 set -u
 PAIRS=(en-de en-zh en-cs en-ar en-fr)
-
+B_DIR="/home/shaq/metrics"
 DATA_DIR="${DATA_DIR:-/home/shaq/mmss/data/comute}"
 OUT_DIR="${OUT_DIR:-results}"
 LOG_DIR="${LOG_DIR:-logs}"
 STAGES="${STAGES:-ref qe}"
 SKIP_EXISTING="${SKIP_EXISTING:-0}"
 
-REF_PY="${REF_PY:-.venv-mtmetrics/bin/python}"
+REF_PY="${REF_PY:-B_DIR/.venv-mtmetrics/bin/python}"
 REF_RUNNER="${REF_RUNNER:-mt_metrics_runner.py}"
-QE_PY="${QE_PY:-.venv-mtqe/bin/python}"
+QE_PY="${QE_PY:-$B_DIR/.venv-mtqe/bin/python}"
 QE_RUNNER="${QE_RUNNER:-mtqe_metrics_runner.py}"
 
 BERTSCORE_MODEL="${BERTSCORE_MODEL:-}"
